@@ -4,8 +4,8 @@ This project demonstrates the implementation of SQL queries on a relational data
 running queries efficiently, and understanding table relationships. The project comes with:
 
 - **queries.sql** – Contains all queries with solutions.
-- ** ERD – Visual** representation of the database schema and relationships.
-- ** Viva Video** – Explanation of queries and database design.
+- **ERD – Visual** representation of the database schema and relationships.
+- **Viva Video** – Explanation of queries and database design.
 
 # How the Queries Work
 The queries.sql file contains all SQL queries used in this project. Each query is written to solve a specific requirement:
