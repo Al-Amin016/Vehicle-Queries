@@ -18,5 +18,5 @@ Constraints & Integrity : Primary keys, foreign keys, and other constraints main
 ## Submission Links 
 - GitHub Repository : [Your GitHub Repo](https://github.com/Al-Amin016/Vehicle-Queries)
 - ERD Link : [View ERD](https://drawsql.app/teams/programming-hero-4/diagrams/vehicle-rentals)
-- Viva Video Link :
+- Viva Video Link : [Watch Video](https://youtu.be/Dxsal8uAeSY)
 
